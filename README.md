@@ -11,7 +11,12 @@ I love working with typescript, :snake: python, :cloud: AWS, :octocat: GitHub an
 I'm working a lot on:
 
 - AWS infrastructure and integration
-- AWS CDK
+  - AWS Organizations
+  - Cost management
+  - Base account setup (Control Tower, VPC,...)
+  - EKS / Kubernetes
+- AWS CDK (typescript)
+- terraform, terragrunt, Atlantis
 - building CI/CD infrastructure and tooling
 - improving overall tech efficiency and architecture in the tech org
 - monitoring & observability
